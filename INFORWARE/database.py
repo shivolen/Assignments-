@@ -4,7 +4,7 @@ def connect_db():
     return pymysql.connect(
         host="localhost",
         user="root",
-        password="gloryspurs123",
+        password="123hacker",
         database="BillingApp"
     )
 
